@@ -1,4 +1,4 @@
-htt# Puppies + Babies
+# Puppies + Babies
 
 ## Objectives
 + Load jQuery in HTML file
